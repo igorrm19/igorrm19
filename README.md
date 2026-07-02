@@ -33,10 +33,6 @@
 
 <br clear="right">
 
-<div align="center">
-<h3>Technologies</h3>
-</div>
-
 ---
 
 <div align="center">
@@ -61,7 +57,10 @@
 <img align="right" height="150"
 src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"/>
 
-### 🚀 Technologies
+
+<div align="center">
+ <h3>Technologies</h3>
+</div>
 
 <div align="left">
 
