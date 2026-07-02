@@ -1,9 +1,8 @@
-<h2 align="left">
-Hi 👋! My name is Igor Machado <br>
-💻 Software Engineer | Node.js | React | TypeScript | Linux
-</h2>
 
----
+<div align="center">
+  <p align="center">
+  <img src="5195437d0e51d5dda8cdabf92fb308ec.webp.jpg" alt="Banner" width="100%">
+</p>
 
 <div align="center">
   <img height="150"
