@@ -1,5 +1,11 @@
 
 <div align="center">
+  <p align="center">
+    <img src="5195437d0e51d5dda8cdabf92fb308ec.webp.jpg" alt="Banner" width="100%">
+  </p>
+</div>
+
+<div align="center">
   <img height="150"
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=igorrm19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
