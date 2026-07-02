@@ -22,13 +22,20 @@
 <p align="left">
   <img src="1000048506-removebg-preview.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
-  <p>Estudante de Engenharia da Computação & Desenvolvedor Full Stack</p>
+  <div style="font-family: 'Times New Roman', serif; line-height: 1.8; color: #c9d1d9;">
+    <p><i>🦇 Student of Computer Engineering & Full Stack Developer 🥀</i></p>
 
-  Sou formado como Técnico em Informática pelo <b>IFNMG</b> e atualmente curso <b>Engenharia da Computação</b>. 
-  Minha maior paixão é o <b>desenvolvimento web</b> e busco me tornar um desenvolvedor <b>Full Stack</b> de alto nível. 
-  Meu objetivo é utilizar a tecnologia para fazer a diferença, ajudando pessoas e empresas a crescerem através de soluções de excelência. 
-  Sou alguém que valoriza muito o aprendizado contínuo e a evolução com propósito.
-  <br><br>
+    <p>
+      I graduated as an IT Technician from <b>IFNMG</b> and am currently studying <b>Computer Engineering</b>. <br>
+      My greatest passion is <b>web development</b>, and my goal is to become a high-level <b>Full Stack</b> developer.
+    </p>
+
+    <p>
+      I aim to use technology to make a real difference, helping people and companies grow through excellent solutions. <br>
+      I deeply value continuous learning, meaningful conversations, and evolution with a purpose.
+    </p>
+  </div>
+  <br>
   </div>
 </p>
 
