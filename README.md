@@ -22,19 +22,11 @@
 <p align="left">
   <img src="1000048506-removebg-preview.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
-  <div style="font-family: 'Times New Roman', serif; line-height: 1.8; color: #c9d1d9;">
-    <p><i>🦇 Student of Computer Engineering & Full Stack Developer 🥀</i></p>
-
-    <p>
-      I graduated as an IT Technician from <b>IFNMG</b> and am currently studying <b>Computer Engineering</b>. <br>
-      My greatest passion is <b>web development</b>, and my goal is to become a high-level <b>Full Stack</b> developer.
-    </p>
-
-    <p>
-      I aim to use technology to make a real difference, helping people and companies grow through excellent solutions. <br>
-      I deeply value continuous learning, meaningful conversations, and evolution with a purpose.
-    </p>
-  </div>
+<div style="font-family: 'Times New Roman', serif; line-height: 1.8; color: #c9d1d9;">
+<p><i>Student of Computer Engineering & Full Stack Developer</i></p>
+<p>I graduated as an IT Technician from <b>IFNMG</b> and am currently studying <b>Computer Engineering</b>.<br>My greatest passion is <b>web development</b>, and my goal is to become a high-level <b>Full Stack</b> developer.</p>
+<p>I aim to use technology to make a real difference, helping people and companies grow through excellent solutions.<br>I deeply value continuous learning, meaningful conversations, and evolution with a purpose.</p>
+</div>
   <br>
   </div>
 </p>
