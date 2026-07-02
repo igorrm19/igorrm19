@@ -20,17 +20,19 @@
 ---
 
 <p align="left">
-  <img src="1000048504-removebg-preview.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="1000048506-removebg-preview.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
-  <p>Student FullStack Developer & Cybersecurity</p>
+  <h3>🌚 Quem sou eu?</h3>
+  <p>Sou uma pessoa sempre disposta a ouvir, aprender e evoluir. Acredito que cada conversa é uma oportunidade de crescimento, tanto pessoal quanto profissional. Sempre busquei respeitar meu tempo, minha forma de ser e o caminho dos outros também. Sou observador, muitas vezes mais calado, mas atento ao que realmente importa: evoluir com propósito e respeito.</p>
 
-  Currently, I am focusing my studies on <b>C# and ASP.NET Core</b>, <b>SQL databases</b>,
-  and <b>Cybersecurity</b>, exploring how to protect systems from the architecture 
-  to the data layer.
-  I have been applying this knowledge to personal projects, 
-  developing applications that involve back-end, databases, and API 
-  consumption on the front-end.
-  <br><br>
+  <h3>🥀 Onde estou atualmente?</h3>
+  <p>Sou formado como técnico em informática pelo IFNMG – Campus Almenara, uma das melhores experiências da minha vida. Lá, aprendi muito, conheci pessoas incríveis e tive portas abertas para um mundo que sempre sonhei em fazer parte. Iniciei minha graduação em Ciência da Computação, mas precisei mudar de cidade por questões financeiras. Hoje, curso Engenharia da Computação em Vitória da Conquista, onde sigo construindo meu futuro.</p>
+
+  <h3>🤖 O que quero alcançar?</h3>
+  <p>Meu objetivo é me tornar um entusiasta da tecnologia que realmente faça a diferença. Quero ajudar pessoas, empresas e instituições a crescerem através da programação. Busco ser um programador de excelência e, um dia, olhar para trás com orgulho da jornada e de todos que cresceram comigo.</p>
+
+  <h3>✨ Quais são meus interesses?</h3>
+  <p>Gosto de me envolver em projetos que me desafiem e me façam evoluir. Tenho muitos interesses, mas minha paixão maior é o desenvolvimento web. Quero me tornar um desenvolvedor full stack de alto nível, contribuindo com qualidade para a comunidade tech e aprendendo continuamente.</p>
   </div>
 </p>
 
