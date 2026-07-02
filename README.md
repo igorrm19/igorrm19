@@ -22,17 +22,13 @@
 <p align="left">
   <img src="1000048506-removebg-preview.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
-  <h3>🌚 Quem sou eu?</h3>
-  <p>Sou uma pessoa sempre disposta a ouvir, aprender e evoluir. Acredito que cada conversa é uma oportunidade de crescimento, tanto pessoal quanto profissional. Sempre busquei respeitar meu tempo, minha forma de ser e o caminho dos outros também. Sou observador, muitas vezes mais calado, mas atento ao que realmente importa: evoluir com propósito e respeito.</p>
+  <p>Estudante de Engenharia da Computação & Desenvolvedor Full Stack</p>
 
-  <h3>🥀 Onde estou atualmente?</h3>
-  <p>Sou formado como técnico em informática pelo IFNMG – Campus Almenara, uma das melhores experiências da minha vida. Lá, aprendi muito, conheci pessoas incríveis e tive portas abertas para um mundo que sempre sonhei em fazer parte. Iniciei minha graduação em Ciência da Computação, mas precisei mudar de cidade por questões financeiras. Hoje, curso Engenharia da Computação em Vitória da Conquista, onde sigo construindo meu futuro.</p>
-
-  <h3>🤖 O que quero alcançar?</h3>
-  <p>Meu objetivo é me tornar um entusiasta da tecnologia que realmente faça a diferença. Quero ajudar pessoas, empresas e instituições a crescerem através da programação. Busco ser um programador de excelência e, um dia, olhar para trás com orgulho da jornada e de todos que cresceram comigo.</p>
-
-  <h3>✨ Quais são meus interesses?</h3>
-  <p>Gosto de me envolver em projetos que me desafiem e me façam evoluir. Tenho muitos interesses, mas minha paixão maior é o desenvolvimento web. Quero me tornar um desenvolvedor full stack de alto nível, contribuindo com qualidade para a comunidade tech e aprendendo continuamente.</p>
+  Sou formado como Técnico em Informática pelo <b>IFNMG</b> e atualmente curso <b>Engenharia da Computação</b>. 
+  Minha maior paixão é o <b>desenvolvimento web</b> e busco me tornar um desenvolvedor <b>Full Stack</b> de alto nível. 
+  Meu objetivo é utilizar a tecnologia para fazer a diferença, ajudando pessoas e empresas a crescerem através de soluções de excelência. 
+  Sou alguém que valoriza muito o aprendizado contínuo e a evolução com propósito.
+  <br><br>
   </div>
 </p>
 
