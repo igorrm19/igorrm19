@@ -47,10 +47,10 @@
 
 <div align="center">
   <img height="150"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=igorrm19&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true"/>
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=igorrm19&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
 
   <img height="150"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igorrm19&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true"/>
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igorrm19&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
 </div>
 
 ---
