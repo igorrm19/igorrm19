@@ -16,6 +16,32 @@
  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)](https://igorrm19.github.io/portifolio/)
 </div>
 
+
+---
+
+<p align="left">
+  <img src="1000048504-removebg-preview.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <div>
+  <p>Student FullStack Developer & Cybersecurity</p>
+
+  Currently, I am focusing my studies on <b>C# and ASP.NET Core</b>, <b>SQL databases</b>,
+  and <b>Cybersecurity</b>, exploring how to protect systems from the architecture 
+  to the data layer.
+  I have been applying this knowledge to personal projects, 
+  developing applications that involve back-end, databases, and API 
+  consumption on the front-end.
+  <br><br>
+  </div>
+</p>
+
+<br clear="right">
+
+<div align="center">
+<h3>Technologies</h3>
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=igorrm19&style=for-the-badge"/>
