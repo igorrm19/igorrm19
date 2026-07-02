@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <img height="150"
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=igorrm19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -7,7 +6,6 @@
   <img height="150"
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igorrm19&layout=compact&theme=dracula"/>
 </div>
-
 ---
 
 <img align="right" height="150"
