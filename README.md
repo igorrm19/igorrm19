@@ -10,14 +10,15 @@
 </p>
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohane-massão)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohane.mdev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-beryl-xi-50.vercel.app/)
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-rodrigues-machado-139037239/)
+ [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[igorrodriguesmachado23@gmail.com])
+ [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)](https://igorrm19.github.io/portifolio/)
 </div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=lohjs-0&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=igorrm19&style=for-the-badge"/>
 <img src="https://img.shields.io/github/commit-activity/y/lohjs-0/lohjs-0?style=for-the-badge"/>
 <img src="https://img.shields.io/github/repo-size/lohjs-0/lohjs-0?style=for-the-badge"/>
 </div>
