@@ -5,6 +5,10 @@
   </p>
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL;Cybersecurity+Student;loading..."/>
+</p>
+
 <div align="center">
   <img height="150"
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=igorrm19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
