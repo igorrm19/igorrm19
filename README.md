@@ -37,23 +37,27 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=igorrm19&style=for-the-badge&color=black&label_color=white"/>
-<img src="https://img.shields.io/github/commit-activity/y/lohjs-0/lohjs-0?style=for-the-badge&color=black&labelColor=white"/>
-<img src="https://img.shields.io/github/repo-size/lohjs-0/lohjs-0?style=for-the-badge&color=black&labelColor=white"/>
-</div>
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=igorrm19&style=for-the-badge&color=000000&label_color=white"/>
+
+  <img src="https://img.shields.io/github/commit-activity/y/igorrm19/igorrm19?style=for-the-badge&color=000000&labelColor=white"/>
+
+  <img src="https://img.shields.io/github/repo-size/igorrm19/igorrm19?style=for-the-badge&color=000000&labelColor=white"/>
+
 </div>
 
 ---
 
 <div align="center">
-  <img height="150"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=igorrm19&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
 
   <img height="150"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igorrm19&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+    src="https://github-readme-stats.vercel.app/api?username=igorrm19&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+
+  <img height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrm19&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+
 </div>
-
----
 
 <img align="right" height="150"
 src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"/>
