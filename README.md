@@ -37,7 +37,9 @@
 <div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=igorrm19&style=for-the-badge&color=000000&label_color=white"/>
+
   <img src="https://img.shields.io/github/commit-activity/y/igorrm19/igorrm19?style=for-the-badge&color=000000&labelColor=white"/>
+
   <img src="https://img.shields.io/github/repo-size/igorrm19/igorrm19?style=for-the-badge&color=000000&labelColor=white"/>
 
 </div>
